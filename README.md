@@ -4,7 +4,7 @@
 Solana Montes
 
 ## Descripción
-Portfolio personal desarrollado como Trabajo Práctico N°1 de Programación 4.
+Portafolio personal desarrollado como Trabajo Práctico N°1 de Programación 4.
 
 El proyecto consiste en una aplicación de una sola página creada con React y Vite, donde se presenta información personal, habilidades y proyectos.
 
