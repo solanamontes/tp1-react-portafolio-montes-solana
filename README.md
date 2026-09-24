@@ -1,16 +1,34 @@
-# React + Vite
+# TP1 - Portfolio Personal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Alumna
+Solana Montes
 
-Currently, two official plugins are available:
+## Descripción
+Portfolio personal desarrollado como Trabajo Práctico N°1 de Programación 4.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+El proyecto consiste en una aplicación de una sola página creada con React y Vite, donde se presenta información personal, habilidades y proyectos.
 
-## React Compiler
+## Tecnologías utilizadas
+- React
+- Vite
+- JavaScript
+- HTML
+- CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Instalación
 
-## Expanding the ESLint configuration
+Para instalar las dependencias del proyecto, ejecutar:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+npm install
+
+## Ejecución
+
+Para ejecutar el proyecto localmente, utilizar:
+
+npm run dev
+
+Luego abrir en el navegador la dirección que muestra la terminal.
+
+## Repositorio
+
+https://github.com/solanamontes/tp1-react-portfolio-montes-solana
